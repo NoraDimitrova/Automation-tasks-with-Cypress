@@ -15,7 +15,7 @@ it('Pokerstars task', function () {
 
     cy.get('h1').should('contain', 'Processed Form Details')
     cy.get('h1').should('be.visible')
-    assert.equal('Processed Form Details', 'Processed Form Details', 'Not register succuessfully')
+    assert.equal('Processed Form Details', 'Processed Form Details', 'Not register successfully')
 
 
 })
