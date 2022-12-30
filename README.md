@@ -1,4 +1,4 @@
-# Automation tasks with Cypress
+# Automation tasks with Cypress and JavaScript
 
 1. Clone repository on your pc
 2. With right click on the folder, where the project is located on your computer, select option "open with Code"
